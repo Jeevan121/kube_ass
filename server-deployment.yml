@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: jeeva121/backendk8s:v1
+          image: jeeva121/backendk8s29:v1
           ports:
             - containerPort: 5000
           
