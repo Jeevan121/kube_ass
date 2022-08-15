@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: server
-          image: umarrafaqat/flask-app:latest
+          image: jeeva121/backendk8s:v1
           ports:
             - containerPort: 5000
           
